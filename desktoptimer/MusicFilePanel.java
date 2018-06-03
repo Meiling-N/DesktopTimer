@@ -197,6 +197,6 @@ public class MusicFilePanel extends JPanel{
     }
     
     private boolean isSupportedMusicFile(File f){
-        return f.getName().matches(".*(.(wav|mp3))$");
+        return f.getName().matches(".*(\\.(wav|mp3))$");
     }
 }

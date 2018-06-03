@@ -239,7 +239,7 @@ public class TimerPanel extends JPanel{
                 minuteTextF.setEnabled(false);
                 secTextF.setEnabled(false);
                 timer = new Timer();
-                timer.schedule(new ReduceTimeTask(), 0,1000);
+                timer.scheduleAtFixedRate(new ReduceTimeTask(), 0,1000);
                 isEndTime=false;
             }
         }
