@@ -17,4 +17,4 @@ You will know how to use when open Software.
 
 I don't add more information if you can't use.
 
-I don't think this Software isn't good, so you have to change the program on you want.
+I think this Software isn't good, so you have to change the program on you want.
